@@ -1,0 +1,23 @@
+SQLite:
+
+(b'HANAR', b'Leverling', 42)
+(b'BLONP', b'Buchanan', 60)
+(b'OLDWO', b'Callahan', 30)
+(b'FAMIA', b'Peacock', 50)
+(b'QUICK', b'Davolio', 54)
+(b'ERNSH', b'Suyama', 130)
+(b'QUICK', b'Fuller', 80)
+(b'ERNSH', b'Leverling', 45)
+(b'FOLKO', b'Callahan', 30)
+
+Pymongo:
+
+HANAR Leverling 42
+BLONP Buchanan 60
+OLDWO Callahan 30
+FAMIA Peacock 50
+QUICK Davolio 54
+ERNSH Suyama 130
+QUICK Fuller 80
+ERNSH Leverling 45
+FOLKO Callahan 30

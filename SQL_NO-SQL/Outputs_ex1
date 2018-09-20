@@ -1,0 +1,29 @@
+SQLite: 
+
+(10643, b'R\xf6ssle Sauerkraut', 28)
+(10643, b'Chartreuse verte', 39)
+(10643, b'Spegesild', 46)
+(10692, b'Vegie-spread', 63)
+(10702, b'Aniseed Syrup', 3)
+(10702, b'Lakkalik\xf6\xf6ri', 76)
+(10835, b'Raclette Courdavault', 59)
+(10835, b'Original Frankfurter gr\xfcne So\xdfe', 77)
+(10952, b"Grandma's Boysenberry Spread", 6)
+(10952, b'R\xf6ssle Sauerkraut', 28)
+(11011, b'Escargots de Bourgogne', 58)
+(11011, b'Flotemysost', 71)
+
+Pymongo:
+
+10643 Rössle Sauerkraut 28
+10643 Chartreuse verte 39
+10643 Spegesild 46
+10692 Vegie-spread 63
+10702 Aniseed Syrup 3
+10702 Lakkalikööri 76
+10835 Raclette Courdavault 59
+10835 Original Frankfurter grüne Soße 77
+10952 Grandma's Boysenberry Spread 6
+10952 Rössle Sauerkraut 28
+11011 Escargots de Bourgogne 58
+11011 Flotemysost 71

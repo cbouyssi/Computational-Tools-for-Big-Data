@@ -1,0 +1,32 @@
+Results of the queries (Peergrade):
+
+Cat article:
+Query: ['cat', (0, 10), 'are', (0, 10), 'to']
+time: 3,5s
+result: 10
+
+Query: ['cat', (0, 100), 'anatomy']
+time: 3,5s
+result: 11
+
+Query: [ 'kitten', (15,85), 'cat', (0,100), 'sire', (0,200), 'oxford' ]
+time: 3,5s
+result: 4
+
+"A" article:
+
+Query: ['arnold', (0, 10), 'schwarzenegger', (0, 10), 'is']
+time: 2m 22s
+result: 14
+
+Query: ['first', (0, 85), 'letter', (0, 100), 'alphabet', (0, 200), 'consonant']
+time: 2m 20s
+result: 4
+
+Query: ['english', (0, 100), 'alphabet']
+time: 2m 20s
+result: 181
+
+For all Wikipedia:
+
+Computer Crashed out after 1 hour
